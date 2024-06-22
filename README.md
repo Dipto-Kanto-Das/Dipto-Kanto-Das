@@ -1,16 +1,20 @@
-## Hi there 👋
+(data:image/jpeg;base64,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)
 
-<!--
-**Dipto-Kanto-Das/Dipto-Kanto-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, my name is Dipto
+## Web Development
+![Web Development]
+I am interested in learning new technologies.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dipto-Kanto-Das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dipto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Dipto-Das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dipto6042/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCHVJMRjKpaBqsrg70xjvPag)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto-Kanto-Das)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipto-Kanto-Das&show_icons=true)  
+
