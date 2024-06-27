@@ -1,20 +1,26 @@
-### Hi there 👋, my name is Dipto
-#### Web Development
-![Web Development](data:image/jpeg;base64,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)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=196209&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
 
-I am interested in learning new technologies.
+</div>
 
-Skills:  HTML / CSS/JS
+<div align="center">
+  <a href="http://riyaz-khan-shuvo.netlify.app/">
+  <img src="https://github.com/Riyaz-khan-shuvo/Snake-SVG/blob/main/snake.svg"
+       alt="snake" />
+<!--   <img src="https://github.com/Riyaz-khan-shuvo/Snake-SVG/blob/main/snake.svg"
+       alt="snake" /> -->
 
-- 🔭 I’m currently working on this page. 
+  [![Riyaz-khan-shuvo/gitartwork](gitartwork.svg)](https://github.com/Riyaz-khan-shuvo/gitartwork)
+  </a>
+</div>
 
+### Hi there I'm Riyaz - [Riyaz][portfolio]👋
+### I am MERN Stack Developer
+### I'm a ❤❤❤ javaScript Lover ❤❤❤
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dipto-Kanto-Das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dipto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Dipto-Das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dipto6042/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCHVJMRjKpaBqsrg70xjvPag)  
+- 🔭 I’m currently working to develop my skills
+- ⚡ Fun fact: ... I love to travel and learn new things. 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+### Connect with me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto-Kanto-Das)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipto-Kanto-Das&show_icons=true)  
-
-
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/riyaz-khan-shuvo/
