@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipto Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 <img align="right" alt="coding" width="400" src="./img/githubanimition.gif">
+
 # 💫 About Me:
 I aim to utilize my coding expertise to create innovative websit that elevate user experiences and drive technological progress.
 
