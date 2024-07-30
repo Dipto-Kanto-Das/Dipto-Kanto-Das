@@ -1,9 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Dipto Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img align="right" alt="Coding" width="350" src=https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw2PxaLOZZOiLJrqsGMVowMV&ust=1722421767710000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiYjZuex86HAxWTbmwGHaRzLUYQjRx6BAgAEBQ>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipto-kanto-das&label=Profile%20views&color=0e75b6&style=flat" alt="dipto-kanto-das" /> </p>
 
 - 📫 How to reach me **dipto2512@gmail.com**
