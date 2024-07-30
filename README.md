@@ -1,7 +1,14 @@
+
+
+<img src="./img/images.jpeg">
+
+
 <h1 align="center">Hi 👋, I'm Dipto Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="[./img/githubanimition.gif](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhtVFJRTmhLV3A5ZFN1YTd1Z2paZnpzUlNKd3xBQ3Jtc0tuSUhUM041VGR1YUlFZWk0TVp6TlIxOTBhdzZZcGNXYUlFN2cwUVFkcTY5YnlVa1Y0RlVLSjNiWTNRUjBtRFAzYmhfQUlPV1REcmpBWWliSTFiSWo2eldySVJKSXpaTVJGTWJhanJDblFGc1pyRjFLdw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)">
+
+<img align="right" alt="coding" width="400" src="./img/githubanimition.gif">
+
 
 # 💫 About Me:
 I aim to utilize my coding expertise to create innovative websit that elevate user experiences and drive technological progress.
@@ -21,4 +28,5 @@ I aim to utilize my coding expertise to create innovative websit that elevate us
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dipto-kanto-das&icon=5&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
