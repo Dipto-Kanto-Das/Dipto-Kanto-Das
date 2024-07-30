@@ -1,9 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Dipto Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.gifer.com%2F3AyY.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2FQFK&docid=jVGec5tPAYSI6M&tbnid=TZyolrJF6Qq_RM&vet=12ahUKEwjPoo2bxc6HAxV2yzgGHQWLFBgQM3oECGgQAA..i&w=450&h=258&hcb=2&ved=2ahUKEwjPoo2bxc6HAxV2yzgGHQWLFBgQM3oECGgQAA"
+<img align="right" alt="Coding" width="350" src=https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw2PxaLOZZOiLJrqsGMVowMV&ust=1722421767710000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiYjZuex86HAxWTbmwGHaRzLUYQjRx6BAgAEBQ>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipto-kanto-das&label=Profile%20views&color=0e75b6&style=flat" alt="dipto-kanto-das" /> </p>
 
