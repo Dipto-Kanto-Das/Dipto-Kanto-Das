@@ -17,5 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipto-kanto-das&show_icons=true&locale=en" alt="dipto-kanto-das" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-kanto-das&" alt="dipto-kanto-das" /></p>
+<p><img align="center" src="![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a6a4237364d4c5a6a694e684753515176786d374c53512e676966](https://github.com/user-attachments/assets/d255bdfe-6e64-4ee8-9ffa-c35c926931cd)
+" alt="dipto-kanto-das" /></p>
 
