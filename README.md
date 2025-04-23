@@ -1,52 +1,43 @@
-<h1 align="center">Hi, I'm Dipto Kanto Das!</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer & Software Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I+love+building+web+and+mobile+apps.;Let's+code+something+awesome!" alt="Typing SVG" />
-</p>
-
----
-
-### ✨ About Me:
-- 🎓 I’m a CSE Student at Global University Bangladesh
-- 🔭 Currently working on exciting web projects like **FulStop E-commerce**
-- 🌱 Currently learning: *React JS*, *Machine Learning*, *Cloud Deployment*
-- ⚡ Passionate about UI/UX, backend logic, and scalable apps
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F75C7E&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;I'm+Dipto+Kanto+Das!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-### 🛠 Languages and Tools:
+<div align="center">
+  <img src="https://github.com/Riyaz-khan-shuvo/Snake-SVG/blob/main/snake.svg" alt="snake animation" />
+</div>
 
-- **Frontend:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+---
 
-- **Backend & Frameworks:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-  ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+### 👋 Hi there, I'm Dipto – [@Dipto-Kanto-Das](https://github.com/Dipto-Kanto-Das)
 
-- **Mobile App:**  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+🎓 CSE Student | 🌐 Full-Stack Developer | 📱 Mobile App Enthusiast
 
-- **Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+---
+
+### ⚡ About Me:
+- 🔭 Working on: **FulStop E-commerce**, **Flutter Bot Apps**
+- 🌱 Learning: `React`, `Machine Learning`, `Cloud Deployment`
+- ✨ I love coding, building things from scratch, and solving real-world problems.
+
+---
+
+### 💻 Tech Stack:
+**Frontend:** HTML, CSS, Bootstrap, JavaScript  
+**Backend:** Python, Django, C#, .NET, Firebase  
+**Mobile:** Flutter, Dart  
+**Database:** MySQL, SQLite  
+**Tools:** Git, GitHub, VS Code
 
 ---
 
 ### 📂 Featured Projects:
-- 🔗 [FulStop E-commerce Website](https://dipto-kanto-das.github.io/fulStop)  
-- 🔗 [Project Megha Winner Bot (Coming Soon)](#)
-- 🔗 [Animated Birthday Wish for Koli](#)
+- 🔗 [FulStop E-commerce Site](https://dipto-kanto-das.github.io/fulStop)
+- 🔗 [Megha Winner Bot (Coming Soon)](#)
+- 🔗 [Koli Birthday Wish (Animated)](#)
 
 ---
 
@@ -59,15 +50,21 @@
 
 ---
 
-### 📫 Contact Me:
-- 📧 Email: diptokanto.das@gmail.com
-- 🌐 Portfolio: [dipto-kanto-das.github.io/fulStop](https://dipto-kanto-das.github.io/fulStop)
-- 🔗 LinkedIn: [linkedin.com/in/dipto-das-171a69319](https://linkedin.com/in/dipto-das-171a69319)
-- 📘 Facebook: [facebook.com/diptokanto.das](https://facebook.com/diptokanto.das)
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipto-das-171a69319)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diptokanto.das)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipto6042)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gamingwithbarisiallakakku)
 
 ---
 
-### ⚙ GitHub Visitors Count:
-<p align="center">
+### 📩 Contact:
+- 📧 Email: diptokanto.das@gmail.com
+- 🌐 Portfolio: [dipto-kanto-das.github.io/fulStop](https://dipto-kanto-das.github.io/fulStop)
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=dipto-kanto-das&label=Profile+Views&color=brightgreen" alt="visitor counter"/>
-</p>
+</div>
