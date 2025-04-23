@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dipto Kanto Das!</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer & Software Engineer</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I+love+building+web+and+mobile+apps.;Let's+code+something+awesome!" alt="Typing SVG" />
@@ -59,11 +59,12 @@
 
 ---
 
-### 📫 Contact Me:
-- 📧 Email: diptokanto.das@gmail.com
-- 🌐 Portfolio: [dipto-kanto-das.github.io/fulStop](https://dipto-kanto-das.github.io/fulStop)
-- 🔗 LinkedIn: [linkedin.com/in/dipto-das-171a69319](https://linkedin.com/in/dipto-das-171a69319)
-- 📘 Facebook: [facebook.com/diptokanto.das](https://facebook.com/diptokanto.das)
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipto-das-171a69319)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diptokanto.das)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipto6042)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gamingwithbarisiallakakku)
 
 ---
 
