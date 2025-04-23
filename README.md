@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I+love+building+web+and+mobile+apps.;Let's+code+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I+love+building+web.;" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,15 +24,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
 - **Backend & Frameworks:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
   ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-
-- **Mobile App:**  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
