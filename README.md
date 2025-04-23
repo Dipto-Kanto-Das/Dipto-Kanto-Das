@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dipto Kanto Das!</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer </h3>
+<h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I+love+building+web+and+mobile+apps.;Let's+code+something+awesome!" alt="Typing SVG" />
