@@ -10,7 +10,7 @@
 ### ✨ About Me:
 - 🎓 I’m a CSE Student at Global University Bangladesh
 - 🔭 Currently working on exciting web projects like **FulStop E-commerce**
-- 🌱 Currently learning: *React JS*, *Machine Learning*, *Cloud Deployment*
+- 🌱 Currently learning: *c#*, *.Net*, *Cloud Deployment*
 - ⚡ Passionate about UI/UX, backend logic, and scalable apps
 
 ---
