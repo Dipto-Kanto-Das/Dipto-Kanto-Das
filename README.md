@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="done-cover.jpg" alt="Dipto Kanto Das" width="200" style="border-radius:50%;"><br>
+  <img src="done-cover.jpg" alt="Dipto Kanto Das" width="600" style="border-radius:50%;"><br>
 </p>
 
 <h1 align="center">Hi, I'm Dipto Kanto Das! 👋</h1>
