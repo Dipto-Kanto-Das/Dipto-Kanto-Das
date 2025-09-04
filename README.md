@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/6X5N9mV/github-banner.png" alt="Dipto Kanto Das" width="200" style="border-radius:50%;"><br>
+  <img src="[https://i.ibb.co/6X5N9mV/github-banner.png](https://ibb.co.com/33XjSCS)" alt="Dipto Kanto Das" width="200" style="border-radius:50%;"><br>
 </p>
 
 <h1 align="center">Hi, I'm Dipto Kanto Das! 👋</h1>
